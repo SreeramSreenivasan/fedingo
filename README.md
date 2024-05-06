@@ -11,3 +11,4 @@ Here are the articles whose source codes are present in this repository
 2. [How to Setup SSL Server in NodeJS](https://techosha.com/how-to-setup-ssl-https-in-nodejs-server/)
 3. [Shell Script to Count Number of Files in Directory](https://techosha.com/shell-script-to-count-number-of-files-in-directory/)
 4. [Shell Script to loop through files in directory](https://techosha.com/shell-script-to-loop-through-files-in-a-directory/)
+5. [Shell Script to loop over lines of file](https://techosha.com/how-to-loop-over-lines-of-file-in-bash/)
